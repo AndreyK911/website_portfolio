@@ -27,7 +27,7 @@ This is a beta version, and more improvements are on the way. I plan to make it 
 
 ## Live Demo
 
-[Click here to view the website](https://your-username.github.io/your-repo-name/)  
+[Click here to view the website](https://andreyk911.github.io/website_portfolio/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
